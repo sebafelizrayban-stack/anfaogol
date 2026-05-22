@@ -1,0 +1,6 @@
+{
+  "name": "AFAOGOL - Gestor de Fútbol Amateur",
+  "description": "Plataforma premium para gestionar resultados de fútbol amateur chileno, posiciones en tiempo real, estadísticas detalladas de series, administración de calendario, multimedia y comentarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
